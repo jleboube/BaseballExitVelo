@@ -2,6 +2,46 @@
 
 This is an AI-powered web application to estimate the exit velocity of a baseball from a live camera feed or an uploaded video. It uses the Google Gemini API for visual analysis.
 
+## Screenshots
+
+<div class="grid" markdown>
+    
+<figure>
+    <img src="/screenshots/Screenshot1.png" width="180" height="220"
+         alt="Landing page">
+</figure>
+
+<figure>
+    <img src="/screenshots/Screenshot2.png" width="180" height="220"
+         alt="Live camera"> 
+</figure>
+
+<figure>
+    <img src="/screenshots/Screenshot3.png" width="180" height="220"
+         alt="Upload video"> 
+</figure>
+
+<figure>
+    <img src="/screenshots/Screenshot4.png" width="180" height="220"
+         alt="Analyze video"> 
+</figure>
+
+<figure>
+    <img src="/screenshots/Screenshot5.png" width="180" height="220"
+         alt="Results"> 
+</figure>
+
+<figure>
+    <img src="/screenshots/Screenshot6.png" width="180" height="220"
+         alt="Results"> 
+</figure>
+
+</div>
+
+
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
