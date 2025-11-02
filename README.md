@@ -2,6 +2,8 @@
 
 This is an AI-powered web application to estimate the exit velocity of a baseball from a live camera feed or an uploaded video. It uses the Google Gemini API for visual analysis.
 
+<a href="https://www.buymeacoffee.com/muscl3n3rd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Screenshots
 
 <div class="grid" markdown>
